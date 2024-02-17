@@ -96,7 +96,7 @@ input[type="text"], textarea {
 /*footer*/
 footer {
     background-color:yellow;
-    color: black;
+    color: #fff;
     padding: 20px;
 }
 
